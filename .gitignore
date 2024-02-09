@@ -1,0 +1,3 @@
+cloud-function/node_modules/*
+front-end/.venv/*
+front-end/static/.DS_Store
